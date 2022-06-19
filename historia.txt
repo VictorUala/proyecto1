@@ -9,3 +9,5 @@ Agrego esta linea para ver como cambia...
 
 
 Cambio de vida y obra maestra.
+
+vamos a probar rm --cached
