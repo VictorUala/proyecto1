@@ -16,4 +16,4 @@ head
 
 probando git reset soft
 
-vamos de nuevo
+vamos de nuevo...
