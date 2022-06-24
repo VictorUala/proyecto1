@@ -16,4 +16,6 @@ head
 
 probando git reset soft
 
+Master 1
+
 vamos de nuevo...
