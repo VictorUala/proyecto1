@@ -26,4 +26,8 @@ Master 2
 
 vamos de nuevo...
 
+<<<<<<< HEAD
 1
+=======
+ARGENTINA
+>>>>>>> 96f0683981ba12ec2677be396ae41272edd6e114
